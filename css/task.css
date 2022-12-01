@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&family=Noto+Sans:wght@200&display=swap');
+
+
+body{
+    background-color: pink;
+   
+}
+.koostisosad{
+    border: 1px solid blue; 
+    text-align: center;
+    width: 50%;
+    margin: 0 auto; color: darkcyan;
+ 
+    
+    
+}
+.koostisosad-table{
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto; color: darkcyan;
+    
+ 
+}
+
+
+.õpetus{
+    border: 1px solid blue;s
+    width: 50%;
+    margin: 0 auto;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+    
+
+}
+.pealkiri{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.footer{
+    font-family: 'Noto Sans', sans-serif;
+}
